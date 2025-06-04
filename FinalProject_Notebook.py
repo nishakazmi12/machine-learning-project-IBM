@@ -566,7 +566,6 @@ y_test
 # In[31]:
 
 
-#SO BAD XD
 
 
 # In[33]:
