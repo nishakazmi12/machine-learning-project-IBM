@@ -43,7 +43,7 @@ This project implements a machine learning pipeline to predict loan approval sta
 
 ```bash
 git clone <your-repo-url>
-cd <oath_to_folder>
+cd <path_to_folder>
 ````
 
 2. Set your IBM Cloud Object Storage API key and endpoint credentials in the script or environment variables.
